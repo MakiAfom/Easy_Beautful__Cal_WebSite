@@ -6,6 +6,7 @@ Steps I followed In my WebSite
 
 
 Initial Setup:
+![Screenshot (112)](https://github.com/MakiAfom/Easy_Beautful__Cal_WebSite/assets/110693825/1fe513d2-856f-487c-94c6-9ba4f5f5954d)
 
 1)Created a new HTML file (index.html) to serve as the landing page for the calculator app.
 Included a basic structure with <head> and <body> tags.
